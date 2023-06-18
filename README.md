@@ -1,5 +1,5 @@
 <h1>Read me do Projeto</h1>
-<p>Este projeto foi desenvolvido em equipe, tive a oportunidade de trabalhar com [@thllz](https://github.com/thllz) , [@LucasDiasAl](https://github.com/LucasDiasAl) , [FranciscoCosta](https://github.com/FranciscoCosta) uma equipe excelente com forma de pensar crítica e criativa.</p>
+<p>Este projeto foi desenvolvido em equipe, tive a oportunidade de trabalhar com -[@thllz](https://github.com/thllz) , -[@LucasDiasAl](https://github.com/LucasDiasAl) , -[FranciscoCosta](https://github.com/FranciscoCosta) uma equipe excelente com forma de pensar crítica e criativa.</p>
 </br>
 <p>Aplicação: <a href="https://lnkd.in/diPPH6ET">https://lnkd.in/diPPH6ET</a></p>
 </br>
