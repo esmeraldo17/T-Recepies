@@ -1,8 +1,8 @@
 <h1>Read me do Projeto</h1>
 <p>Este projeto foi desenvolvido em equipe, tive a oportunidade de trabalhar com:
-- [@thllz](https://github.com/thllz)
-- [@LucasDiasAl](https://github.com/LucasDiasAl)
-- [FranciscoCosta](https://github.com/FranciscoCosta)
+  <a href="https://github.com/thllz">@thllz</a>
+  <a href="https://github.com/LucasDiasAl">@LucasDiasAlz</a>
+  <a href="https://github.com/FranciscoCosta">@FranciscoCosta</a>
   Uma equipe excelente com forma de pensar crítica e criativa.</p>
 </br>
 <p>Aplicação: <a href="https://lnkd.in/diPPH6ET">https://lnkd.in/diPPH6ET</a></p>
